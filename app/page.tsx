@@ -53,9 +53,9 @@ export default function SkillDashboard() {
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-xl font-semibold">Skill Test</h1>
           <div className="flex items-center space-x-2">
-            <span className="text-sm font-medium">Suyash Parmar</span>
+            <span className="text-sm font-medium">Samyak Mittal</span>
             <Avatar>
-              <AvatarImage src="/man-svgrepo-com.svg" alt="Suyash Parmar" />
+              <AvatarImage src="/man-svgrepo-com.svg" alt="Samyak" />
               <AvatarFallback>SP</AvatarFallback>
             </Avatar>
           </div>
